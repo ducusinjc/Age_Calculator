@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Age Calculator Application</string>
+    <string name="topText">CALCULATE YOUR</string>
+    <string name="paddedText">AGE</string>
+    <string name="bottomText">IN MINUTES</string>
+    <string name="buttonText">Select Date</string>
+    <string name="dateText">Selected Date</string>
+    <string name="calculatedText">In minutes til present date</string>
+    <string name="defaultText">dd/mm/yyyy</string>
+    <string name="defaultValue">0</string>
+</resources>
